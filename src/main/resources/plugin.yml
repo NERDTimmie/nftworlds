@@ -1,0 +1,9 @@
+name: Trialplugin
+version: '${project.version}'
+main: dev.nerdtimmie.nftworlds.trialplugin.Trialplugin
+api-version: 1.17
+depend: [ WRLDPaymentsAPI ]
+
+commands:
+  shop:
+

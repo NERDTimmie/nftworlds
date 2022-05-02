@@ -1,0 +1,9 @@
+items:
+  1:
+    item: GOLD_INGOT
+    price: 5.0
+    amount: 16
+  2:
+    item: DIAMOND
+    price: 10.0
+    amount: 1
